@@ -1,0 +1,20 @@
+{
+  // integer — numeric identifier
+  "id": 0,
+  // string — given name of body
+  "name": "Monstera",
+  // string? — UTC date of when body was last edited by a human
+  "updated_at": "",
+  // string? — UTC date of when body was created by a human
+  "created_at": "",
+  // integer — Given age of a body, if not provided, based on created_at date
+  "age": 0,
+  // bool — Is the body something humans use/wield (a utility)?
+  "utility?": true,
+  // integer — Balance in Ethereum
+  "balance_eth": 0,
+  // boolean — Does this body come with an instruction manual?
+  "instructions?": false,
+  // array — List other bodies that occupy the same family-set this body is categorized by
+  "family": []
+}
