@@ -6,3 +6,4 @@ Ongoing Project Notes
 
 Related Resources
 - https://www.are.na/edouard-urcades/learning-software-abstraction
+- https://www.are.na/soft-surplus/softos
